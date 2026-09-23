@@ -95,6 +95,7 @@ Rectangle {
         Kirigami.Icon {
             anchors.centerIn: parent
             width: parent.width * 0.75
+            height: width
             source: root.metadata.icon
         }
 
